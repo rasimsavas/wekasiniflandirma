@@ -1,0 +1,2 @@
+#WEKA	
+Arff dosyalari icin bazi islemler python kodlari ile yapilmaktadir.
