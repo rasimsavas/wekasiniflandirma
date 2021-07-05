@@ -1,0 +1,2 @@
+# wekasiniflandirma
+image classification weka 
